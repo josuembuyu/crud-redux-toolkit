@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Title
+
+Crud-redux-toolkit
+
+## Description
+
+This is a demo project for react experimentation with the "Redux toolkit" state management tool
 
 ![Project Preview](./src/final.png)
 
